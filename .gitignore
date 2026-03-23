@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.venv/
+venv/
+env/
+conda-meta/
+*.conda
+*.tar.bz2
+data/raw/
+*.log
