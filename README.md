@@ -134,7 +134,7 @@ This creates a more robust customer valuation framework than relying only on his
 ![Top 10 CLTV 6M](images/top10_cltv_6m.png)
 
 ### 1-Month vs 12-Month CLTV Comparison
-![CLTV 1M vs 12M](images/cltv_1m_vs_12m.png)
+![CLTV 1M vs 12M](images/comparison.png)
 
 ## Outputs
 

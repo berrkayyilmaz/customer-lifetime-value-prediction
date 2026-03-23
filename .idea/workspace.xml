@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89a583b5-a621-4a7f-9009-22ce52877c6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/customer-lifetime-value-prediction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/cltv_prediction.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cltv_builder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data_prep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/segmentation.py" afterDir="false" />
-    </list>
+    <list default="true" id="89a583b5-a621-4a7f-9009-22ce52877c6b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +115,7 @@
       <updated>1774183770142</updated>
       <workItem from="1774183771106" duration="1446000" />
       <workItem from="1774185270836" duration="5325000" />
-      <workItem from="1774264755211" duration="13213000" />
+      <workItem from="1774264755211" duration="13520000" />
     </task>
     <servers />
   </component>
